@@ -1,4 +1,4 @@
-# df-code-releases
+# Digital Freedom: Code - Releases
 
 Every generation inherits the tools of the last, and mostly uses them to build the same things a
 little faster. **Digital Freedom** builds tools that make entirely new things possible — for the
@@ -16,5 +16,5 @@ the latest build straight from this repo's [Releases](../../releases) page.
 
 ## What's inside a release
 
-- Installers for the df_code desktop app, built with `electron-builder`
-- Auto-update metadata the desktop app checks against on launch
+- Latest installation executables for the df_code desktop app across various operating systems.
+- Auto-update metadata the desktop app checks against on launch.
